@@ -1,4 +1,4 @@
-# conversor-temperatura
+# Conversor de Temperatura
 
 Mini projeto para estudo do JavaScript Puro.
 
